@@ -9,8 +9,7 @@
   "dependencies": {
     "next": "latest",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "tailwindcss": "1.8.10"
+    "react-dom": "^16.13.1"
   },
   "license": "MIT"
 }

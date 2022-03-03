@@ -3,9 +3,9 @@ import Link from "next/link";
 export default function IndexPage() {
   return (
     <div>
-      Hello!{" "}
+      Hej{" "}
       <Link href="/about">
-        <a>Brian</a>
+        <a>Lasse</a>
       </Link>
     </div>
   );
